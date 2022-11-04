@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,12 +38,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/ProdList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/Shop.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/ShopPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Pages/WorkerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya2VyTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/krist/Documents/GitHub/Pastomai/BlazorApp1/BlazorApp1/Client/Shared/SurveyPrompt.razor]
