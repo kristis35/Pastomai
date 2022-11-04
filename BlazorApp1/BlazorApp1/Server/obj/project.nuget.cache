@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZYSqckyHnpIEWUuwucTc/SR74nmQn15X58Uyu3YcMPmLaq0BA7fo66wFehzyE4FDLTFyVU4/LITmVJA0IR48Ow==",
+  "dgSpecHash": "u8MZyEQHlXHRfbVavz7lMCsgcah+/4tnbSkspeXoqncJ4Vz1eOsmxi9W0QDwCdtstxi5w2gC1JxTh4jPRluTSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+  "projectFilePath": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krist\\.nuget\\packages\\libsassbuilder\\2.0.1\\libsassbuilder.2.0.1.nupkg.sha512",
     "C:\\Users\\krist\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",

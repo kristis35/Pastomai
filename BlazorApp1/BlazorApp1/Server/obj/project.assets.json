@@ -1476,11 +1476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+      "projectUniqueName": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
       "projectName": "BlazorApp1.Server",
-      "projectPath": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+      "projectPath": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
       "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Server\\obj\\",
+      "outputPath": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1497,11 +1497,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
-              "projectPath": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
+            "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
+              "projectPath": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
             },
-            "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
-              "projectPath": "C:\\Users\\krist\\source\\repos\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
+            "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+              "projectPath": "C:\\Users\\krist\\Documents\\GitHub\\Pastomai\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
             }
           }
         }
